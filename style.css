@@ -1,0 +1,45 @@
+ body{
+    font-family: "Courier Prime",monospace;
+    font-weight: 400;
+    padding: 0;
+    margin: 10px;
+    background: #000;
+    color: #e2ff3f;
+}
+.button, .input {
+    margin: 5px 0 0 10px;
+    border: none;
+    background-color: transparent;
+    color: #e2ff3f;
+    font-size: 16px;
+}
+
+
+.heading {
+    margin: 0 0 10px 10px;
+    color: #0f0;
+    font-weight: 700;
+    font-family: "Poppins",sans-serif;
+    letter-spacing: 2px;
+}
+#name{
+    color: red;
+    font-weight: bold;
+}
+
+.btn{
+    border: none;
+    background-color:transparent;
+    color: white;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 10px;
+    left: 700px;
+}
+
+.footer-note {
+    margin: 0;
+}
